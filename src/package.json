@@ -1,0 +1,28 @@
+{
+  "name": "ng-focus-directive",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hannut91/ng-next-directive"
+  },
+  "author": {
+    "name": "yunseok",
+    "email": "hannut91@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hannut91/ng-next-directive/issues"
+  },
+  "main": "ng-focus-directive.umd.js",
+  "module": "ng-focus-directive.js",
+  "jsnext:main": "ng-focus-directive.js",
+  "typings": "ng-focus-directive.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
